@@ -173,5 +173,3 @@ console.log(`Divisão: ${divide(a, b)}`);
 ```
 
 Assim como nos outros exemplos, as referências se encontram no final do prompt.
-
-## Utilização do Dall-E no Microsoft Azure
