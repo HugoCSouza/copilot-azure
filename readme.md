@@ -6,7 +6,7 @@ Caso seja sua primeira interação com o ambiente Azure, recomendo visitar prime
 
 [Microsoft Copilot](https://copilot.microsoft.com/) é uma ferramenta de IA generativa que te ajuda nas suas pesquisas online fornecendo respostas mais dinâmicas e dotadas de referências, ao invés do velho método indexador.
 
-![alt text](image.png)
+![alt text](src/images/image.png)
 
 Você pode alternar entre os modos: criativo, preciso e balanceado. Estes modos dizem respeito à liberdade da IA de gerar respostas mais elaboradas e menos intrinsecamente ligadas aos conteúdos de referência. Vamos utilizar nos exemplos aqui o modo balanceado, mas você pode usar o que for mais confortável para a sua aplicação.
 
@@ -39,7 +39,7 @@ Obtivemos a seguinte resposta do copilot:
 
 O bloco de resposta foi copiado conforme a formatação Markdown da resposta, mas ainda dando ênfase no que foi respondido. Há de se destacar que abaixo das respostas, as referências de onde o Copilot se baseou para entregar a resposta desejada estão no final do prompt, conforme a imagem abaixo.
 
-![alt text](image-1.png)
+![alt text](src/images/image-1.png)
 
 Você pode fazer qualquer outro tipo de pesquisa usando prompt, sua imaginação é o limite, portanto, hora da sua vez de realizar e utilizar o Copilot como o seu buscador oficial. Vale lembrar que o copilot transforma as perguntas para a lingua na qual ele foi implementado, o inglês, o que pode ter alguns problemas de interpretação.
 
@@ -53,7 +53,7 @@ Como exemplo, vamos testar o seguinte prompt.
 
 E como resposta obtivemos:
 
-![alt text](image-2.png)
+![alt text](src/images/image-2.png)
 
 A sua imaginação é o limite para a geração de imagens do Dall-E.
 
@@ -173,3 +173,5 @@ console.log(`Divisão: ${divide(a, b)}`);
 ```
 
 Assim como nos outros exemplos, as referências se encontram no final do prompt.
+
+## Utilização do Dall-E no Microsoft Azure
