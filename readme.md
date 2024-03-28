@@ -173,3 +173,5 @@ console.log(`Divisão: ${divide(a, b)}`);
 ```
 
 Assim como nos outros exemplos, as referências se encontram no final do prompt.
+
+#### Este repositório foi feito com objetivo de demonstrar a utilização básica do Copilot, além de servir como base de avaliação dentro do bootcamp " Microsoft Azure AI Fundamentals" ministrado pela DIO. Qualquer sugestão, pode solicitar um pull request ou entrar em contato comigo via [linkedin](https://www.linkedin.com/in/hugo-cs-souza/)
